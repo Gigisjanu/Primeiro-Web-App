@@ -1,0 +1,38 @@
+{
+    "nome" : "archgi.netlify" ,
+    "short_name" : "archgi-306dd4.netlify" ,
+
+    "ícones" : [
+      {
+         "src" : " assets/img/logo-ArchGi1.png " ,
+         "tamanhos" : " 390x418 " ,
+         "tipo" : " imagem/png "
+      },
+      {
+        "src" : " assets/img/logo-ArchGi2.png " ,
+        "tamanhos" : " 192x192 " ,
+        "tipo" : " imagem/png "
+      },
+      {
+        "src" : " assets/img/logo-ArchGi3.png " ,
+        "tamanhos" : " 144x144 " ,
+        "tipo" : " imagem/png "
+      },
+      {
+        "src" : " assets/img/logo-ArchGi4.png " ,
+        "tamanhos" : " 96x96 " ,
+        "tipo" : " imagem/png "
+      }
+ 
+    ],
+    "start_url" : " / " ,
+    "exibir" : " autônomo " ,
+    "description": "Somos um escritório de Arquitetura e Urbanismo que tem como objetivo concretizar sonhos.",
+    "categories": [
+        "business",
+        "lifestyle",
+        "magazines"
+      ],  
+    "background_color" : "#ffffff" ,
+    "theme_color" :"#ffffff"
+}
